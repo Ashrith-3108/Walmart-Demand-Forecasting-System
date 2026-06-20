@@ -3,8 +3,9 @@
 A comprehensive demand forecasting system for Walmart stores using advanced machine learning models and current economic data. This project demonstrates end-to-end ML engineering with production-ready deployment capabilities.
 
 ## 🚀 Live Demo
+https://walmartdemandforecasting.streamlit.app/
 
-**🌐 Application**: [Deploy to Streamlit Cloud](https://walmartdemandforecasting.streamlit.app/)
+**🌐 Application**: [Deploy to Streamlit Cloud](https://walmartdemandforecasting.streamlit.app/) 
 
 **📊 GitHub**: [View Source Code](https://github.com/shivadhanush1216/-Walmart-Demand-Forecasting-System)
 
